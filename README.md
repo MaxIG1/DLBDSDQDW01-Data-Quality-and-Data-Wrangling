@@ -20,6 +20,6 @@ The HDF5 file structure consists of groups for each website, with daily data sto
 ## Legal Considerations
 The German Federal Court of Justice in 2014, stating that scraping is not automatically illegal, even if it violates a website's terms and conditions. The scraping of Yahoo Finance was not executed due to explicit prohibition, but alternative sources were used to gather stock market data.
 ## Conclusion
-The project's technical procedure, legal implications, and data analysis results are covered in detail. It demonstrates a methodology for collecting data for various scientific inquiries, including the tested hypotheses. Additionally, it emphasizes the potential of web scraping to provide valuable insights in rapidly evolving fields such as the housing market.
+This scraper demonstrates a methodology for collecting data for various scientific inquiries. Additionally, it emphasizes the potential of web scraping to provide valuable insights in rapidly evolving fields such as the housing market.
 For further details and analysis results, please refer to the IPython Notebook file "Analysis.ipynb" and the collected data in "scraping_data.h5".
 
