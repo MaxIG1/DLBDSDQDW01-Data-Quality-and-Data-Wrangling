@@ -2,7 +2,7 @@
 Web scraping of four websites.
 ## Project Description
 This project focuses on analyzing the housing market using web scraping techniques. It includes a web scraper, implemented as a Python script and an IPython Notebook (.ipynb) file for data analysis. The data collected from various websites is stored in the scraping_data.h5 file.
-Motivation
+## Motivation
 The housing market plays a crucial role in the global economy, but it also raises social concerns due to increasing prices and potential exclusion of certain groups. Obtaining accurate and up-to-date data in this dynamic market is challenging for policymakers. Web scraping offers a solution by automatically collecting data from real estate platforms, providing valuable insights into current market trends.
 ## Data Collection
 The web scraper extracts data from three websites:
