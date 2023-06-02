@@ -12,7 +12,9 @@ The web scraper extracts data from three websites:
 Data collection occurred over a one-week period, from May 23, 2023, to May 29, 2023.
 ## Limitations
 While this study allows for hypothesis testing with the available dataset, it's important to note some limitations:
+
 •	To obtain statistically robust results, data collection should be extended over a more extended period and cover a larger geographical area, potentially including the entire country.
+
 •	The time frame and location (Munich) studied here may not capture broader market trends.
 ## Technical Approach
 The project utilizes Python libraries such as Beautiful Soup and Selenium for web scraping. The code is designed to be reusable, with various functionalities encapsulated in functions. The scraper script retrieves data from each website and saves it in the appropriate format to the HDF5 file.
